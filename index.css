@@ -1,0 +1,28 @@
+body{
+    background-color: #fafafa;
+}
+
+header{
+    margin: 25px 150px 0px 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+header nav ul{
+    display: flex;
+    width: 900px;
+    height: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header input {
+    font-family: inherit;
+    font-size: inherit;
+    background-color: #fffcfc;
+    border: none;
+    color: #646464;
+    padding: 07.rem 1rem;
+    border-radius: 15px;
+    width: 14;
+}
